@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.stanford.protege</groupId>
   <artifactId>test-bump</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>Archetype - test-bump</name>
   <url>http://maven.apache.org</url>
   <packaging>jar</packaging>
